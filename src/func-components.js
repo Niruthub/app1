@@ -16,7 +16,7 @@ export function Header(){
         </div>
     )
 }
-
+// เขียนแบบ Function ปกติ
 export function Content(){
     return(
         <div style={{textAlign:'center'}}>
@@ -25,7 +25,7 @@ export function Content(){
         </div>
     )
 }
-
+// เขียนแบบ Arrow Function 
 export const Footer = () =>{
     return (
         <div style={{textAlign: 'center'}}>
