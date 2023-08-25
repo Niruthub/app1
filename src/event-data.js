@@ -1,5 +1,15 @@
 import React from "react";
 
+function Table(){
+    const data = [
+        ['JavaScript',100],
+        ['React',150],
+        ['React Native',180],
+        ['Node.js',200],
+        ['VS Code',120]
+    ]
+}
+
 export function EventData2(){
     const onClickStartStop = (ev) =>{
         let t = ev.target.innerText
