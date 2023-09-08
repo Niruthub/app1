@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import {userContext} from './context'
 
 export default class Header extends React.Component{
