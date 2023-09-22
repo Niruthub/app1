@@ -1,0 +1,22 @@
+.nav {
+    background-color: #ced;
+    padding: 7px;
+    text-align: center;
+    margin: 15px;
+    cursor: url(/public/banners/genshin.69b4156.png),auto;
+}
+
+.menu {       /* สำหรับสถานะ inactive */
+    color: blue;
+    text-decoration: none;
+    padding: 2px 5px;    
+    cursor: url(/public/banners/genshin.69b4156.png),auto;
+}
+
+.active_menu {      /* สำหรับสถานะ active */
+    color: red;
+    background-color: yellow;
+    text-decoration: none;
+    padding: 2px 5px;
+    cursor: url(/public/banners/genshin.69b4156.png),auto;
+}
